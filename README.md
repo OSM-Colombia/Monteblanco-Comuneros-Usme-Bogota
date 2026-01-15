@@ -5,6 +5,7 @@
 Estas son las fechas de captura de las fotos:
 
 * Aéreas desde drone: 2026-01-12
+  * Ortofoto: https://map.openaerialmap.org/#/-74.11897301673889,4.502852813471316,17/user/5d706f805583d40006c15787/69684a14a157d1816073f72d?_k=uaa25y
 
 Hay diferente tipos de fotos:
 
